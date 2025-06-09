@@ -1,26 +1,28 @@
 # ¡Bienvenido!
 
-Te encuentras en mi página personal, aquí indexé cada uno de mis proyectos públicos. ¡Anda y revisa que eso es gratis!
+Te encuentras en mi página personal, ¡Anda y revisa que es gratis!
 
 ---
 
 # Acerca de mí
 
-Soy un joven que se interesa por la informática principalmente por el gusto que tengo a la literatura, esto porque creo en que cada lenguaje representa un nuevo dialecto para comunicar nuestras ideas a un computador, lo cual concluye con la creación de aplicativos ya sea en una minima o grandisima escala. Entonces saber hablar y pensar bien es mí meta y trabajo durante mi trayecto como informático.
+Soy tecnico en informática que se especializa en javascript desde hace un año, trato de enfocar mi trabajo hacia fullStack pero me adapto más facil en proyectos frontEnd, también manejo conceptos como diseño Experiencia de Usuario (UX) para desarrollar aplicaciones entendibles y tengo manejo en herramientas de terminal.
+
+## Habilidades blandas
+
+Trabaje en áreas que requieren una **atención activa con el público**, contando con destrezas tales: *la buena comunicación, orientación a la toma de ideas.*
+
+Conozco maneras para *recopilar información de proyectos*, lo cual es versatíl a la hora de tomar decisiones antes de empezar o dirigir un proyecto, cuento con habilidad para *documentarme sobre información tecnica* sobre alguna tecnología que requiera usar.
 
 ## Habilidades Técnicas
 
 Cuento con habilidades técnicas que se enfocan en la **creación de sitios y programas para la web** cómo:
 
-- ASP .Net Core:
-  - Entity Framework
-  - Api (Rest)
-- HTML y CSS
-- Frameworks CSS: Boostrap y PicoCSS
-- Componentes web ya sea Javascript, Blazor, React o Lit
-- Wordpress
+- Maquetación y Frameworks para Estilos de sitios web, ej.: Boostrap, pico css.
+- Creación de plugins para navegador
+- Desarrollo de APIs
+- Manejo de Base de Datos SQL
 
-Que requieren conocimiento en los *Lenguaje de C# y Javascript*,
 además conozco de **herramientas que agilizan el desarrollo** que són:
 
 | Herramientas | Descripción |
@@ -29,10 +31,12 @@ además conozco de **herramientas que agilizan el desarrollo** que són:
 | **Xampp**| Desplegar servidor local y enfrentarme a situaciones reales en entornos controlados |
 | **Figma**| Diseñar el flujo y prototipos de mis proyectos |
 | **NPM**| CLI para gestionar y consumir terceros de Javascript |
-| **DotNet**| CLI para gestionar y consumir terceros del ecosistem .Net |
 
-## Habilidades blandas
+## Visión a Futuro
 
-Trabaje en áreas que requieren una **atención activa con el público**, contando con destrezas tales: *la buena comunicación, orientación a la toma de ideas.*
+Mi meta a final de año espero es comprender y usar de forma decente frameworks como Angular o AstroJS para participar en proyectos con más robustez, y con ello aprender la sintaxis de JSX para adentrarme al uso de componentes web modernos como React, Solid, o crear lo mios propios.
 
-Conozco maneras para *recopilar información de proyectos*, lo cual es versatíl a la hora de tomar decisiones antes de empezar o dirigir un proyecto, cuento con habilidad para *documentarme sobre información tecnica* sobre alguna tecnología que requiera usar.
+También tengo objetivos cómo:
+- aprender programación de bajo nivel porque tengo hobbie por el modding y homebrew de videoconsolas.
+- desarrollar habilidades en documentación y testing para dejar aplicaciones duraderas.
+- desarrollar mis conocimientos para explicar estos temas a la gente con más normalidad.
