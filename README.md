@@ -37,6 +37,5 @@ además conozco de **herramientas que agilizan el desarrollo** que són:
 Mi meta a final de año espero es comprender y usar de forma decente frameworks como Angular o AstroJS para participar en proyectos con más robustez, y con ello aprender la sintaxis de JSX para adentrarme al uso de componentes web modernos como React, Solid, o crear lo mios propios.
 
 También tengo objetivos cómo:
-- aprender programación de bajo nivel porque tengo hobbie por el modding y homebrew de videoconsolas.
 - desarrollar habilidades en documentación y testing para dejar aplicaciones duraderas.
-- desarrollar mis conocimientos para explicar estos temas a la gente con más normalidad.
+- Mejorar la forma en que explico un concepto para ayudar a otros a comprender mejor.
